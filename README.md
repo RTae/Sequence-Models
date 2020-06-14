@@ -9,3 +9,9 @@ This couse is one of the five couses from Deep-leaning.ai
 <a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/cheatsheet-recurrent-neural-networks.pdf“><img src=”https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-002.png?" alt=“Illustration” width=“280px”/></a>| 
 ------------ | 
 |Recurrent Neural Networks|
+
+
+***Cheat sheet by Stanford University*** :evergreen_tree:
+<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/cheatsheet-convolutional-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-001.png?" alt="Illustration" width="280px"/></a>| 
+------------ | 
+|Convolutional Neural Networks|
